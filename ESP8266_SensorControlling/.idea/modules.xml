@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../20190921_DevicePython/.idea/20190921_DevicePython.iml" filepath="$PROJECT_DIR$/../20190921_DevicePython/.idea/20190921_DevicePython.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../20190923_DevicePython/.idea/20190923_DevicePython.iml" filepath="$PROJECT_DIR$/../20190923_DevicePython/.idea/20190923_DevicePython.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../20191015_DeviceAWS/.idea/20191015_DeviceAWS.iml" filepath="$PROJECT_DIR$/../20191015_DeviceAWS/.idea/20191015_DeviceAWS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../20191023_AI/.idea/20191023_AI.iml" filepath="$PROJECT_DIR$/../20191023_AI/.idea/20191023_AI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/20191024_DeviceAWS.iml" filepath="$PROJECT_DIR$/.idea/20191024_DeviceAWS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../20191029_AI/.idea/20191029_AI.iml" filepath="$PROJECT_DIR$/../20191029_AI/.idea/20191029_AI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../20191029_DeviceAWS/.idea/20191029_DeviceAWS.iml" filepath="$PROJECT_DIR$/../20191029_DeviceAWS/.idea/20191029_DeviceAWS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../20191029_IT/.idea/20191029_IT.iml" filepath="$PROJECT_DIR$/../20191029_IT/.idea/20191029_IT.iml" />
+    </modules>
+  </component>
+</project>

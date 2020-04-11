@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Python 3.6 (basic)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="20191029_AI" />
+    <orderEntry type="module" module-name="20190921_DevicePython" />
+    <orderEntry type="module" module-name="20190923_DevicePython" />
+    <orderEntry type="module" module-name="20191015_DeviceAWS" />
+    <orderEntry type="module" module-name="20191029_IT" />
+    <orderEntry type="module" module-name="20191029_DeviceAWS" />
+    <orderEntry type="module" module-name="20191023_AI" />
+  </component>
+</module>
